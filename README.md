@@ -13,7 +13,7 @@ This project aims to analyze loan application data to understand factors influen
 - [Model Building](#model-building)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Technologies Used
 - Python
